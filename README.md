@@ -1,6 +1,6 @@
 # MY python learn from stanford code in place
 
-1.    [StepUp.py](link)\
+1.    [StepUp.py](StepUp.py)\
         Where I learned some basical coding prompts and 'The for loop'\
 2.    [PotholeFilling.py](link)\
         The advance practice of 'StepUp.py'.\
