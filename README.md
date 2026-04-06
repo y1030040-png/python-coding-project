@@ -4,7 +4,7 @@
         Where I learned some basical coding prompts and 'The for loop'\
 2.    [PotholeFilling.py](PotholeFilling.py)\
         The advance practice of 'StepUp.py'.\
-3.    [BeeperRow.py](link)\
+3.    [BeeperRow.py](BeeperRow.py)\
         I learned 'the while loop' from this project.\
 4.    [BeeperRowAdv.py](link)\
         I learned 'if/else loop' and the concept of 'condition' with the project.\
