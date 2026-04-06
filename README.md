@@ -8,7 +8,7 @@
         I learned 'the while loop' from this project.\
 4.    [BeeperRowAdv.py](BeeperRowAdv.py)\
         I learned 'if/else loop' and the concept of 'condition' with the project.\
-5.    [Steeplechase.py](link)\
+5.    [Steeplechase.py](Steeplechase.py)\
         My finally project of week 1 course. 
       
       
